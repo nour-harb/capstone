@@ -1,0 +1,30 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+  "workbench.colorCustomizations": {
+    "minimap.background": "#00000000",
+    "scrollbar.shadow": "#00000000"
+  },
+  "cmake.sourceDirectory": "C:/Users/toni/Documents/capstone/ai-shopper/flutter_shopper/windows/flutter",
+  "cSpell.words": ["pallete", "viewmodel"],
+  "diffEditor.experimental.showEmptyDecorations": false,
+  "workbench.editor.decorations.colors": false,
+  "workbench.editor.decorations.badges": false,
+  "explorer.decorations.badges": false,
+  "explorer.decorations.colors": true,
+  "search.decorations.badges": false,
+  "search.decorations.colors": true,
+  "scm.diffDecorations": "overview",
+  "scm.diffDecorationsGutterAction": "diff",
+  "scm.diffDecorationsGutterPattern": {
+    "modified": false
+  },
+  "scm.diffDecorationsGutterVisibility": "hover",
+  "scm.diffDecorationsIgnoreTrimWhitespace": "true",
+  "git.decorations.enabled": false,
+  "testing.gutterEnabled": false,
+  "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+  "editor.defaultColorDecorators": "never",
+  "debug.showInlineBreakpointCandidates": false
+}
